@@ -1,0 +1,10 @@
+jupyter
+matplotlib
+ipython-cypher 
+pandas
+numpy
+py2neo 
+gensim 
+jgraph
+networkx
+sklearn
